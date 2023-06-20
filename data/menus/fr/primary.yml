@@ -4,5 +4,9 @@ items:
 - title: Pourquoi Singa ?
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: À propos
+    target: "/a-propos/"
+    kind: page
+    children: []
 
