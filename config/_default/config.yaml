@@ -3,8 +3,8 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 params:
-  # summary:
-  #   position: hero
-  # posts:
-  #   index:
-  #     show_categories: true
+  summary:
+    position: hero
+  posts:
+    index:
+      show_categories: true
