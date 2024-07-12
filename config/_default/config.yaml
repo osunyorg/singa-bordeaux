@@ -7,4 +7,5 @@ params:
     position: hero
   posts:
     index:
-      show_categories: true
+      options:
+        categories: true
